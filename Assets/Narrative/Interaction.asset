@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ae1ee58749034743aedc1636bb8f1b8, type: 3}
+  m_Name: Interaction
+  m_EditorClassIdentifier: 
+  dialogues:
+  - text: It's a depressing sight to behold... He's suffering from a nightmare-induced
+      coma.
+    speaker: Oja
+    speakerTag: 
+    pitchMod: 0
+    timeUntilNextLine: 0
+    typingSpeed: 0.05
+    newBlock: 0
+    narrativeEvent: {fileID: 0}
+    Event:
+      m_PersistentCalls:
+        m_Calls: []
+    args: []
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isSkipable: 0
+  - text: Get over it. That's just life.
+    speaker: Oze
+    speakerTag: 
+    pitchMod: 0
+    timeUntilNextLine: 0
+    typingSpeed: 0.05
+    newBlock: 0
+    narrativeEvent: {fileID: 0}
+    Event:
+      m_PersistentCalls:
+        m_Calls: []
+    args: []
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isSkipable: 0
+  - text: "Dream demons have taken over his mind. He\u2019s nearly dead\u2026"
+    speaker: Oja
+    speakerTag: 
+    pitchMod: 0
+    timeUntilNextLine: 0
+    typingSpeed: 0.05
+    newBlock: 0
+    narrativeEvent: {fileID: 0}
+    Event:
+      m_PersistentCalls:
+        m_Calls: []
+    args: []
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isSkipable: 0
+  - text: This must be his deathbed, then!
+    speaker: Oze
+    speakerTag: 
+    pitchMod: 0
+    timeUntilNextLine: 0
+    typingSpeed: 0.05
+    newBlock: 0
+    narrativeEvent: {fileID: 0}
+    Event:
+      m_PersistentCalls:
+        m_Calls: []
+    args: []
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isSkipable: 0
+  - text: "We should help him\u2026"
+    speaker: Oja
+    speakerTag: 
+    pitchMod: 0
+    timeUntilNextLine: 0
+    typingSpeed: 0.05
+    newBlock: 0
+    narrativeEvent: {fileID: 0}
+    Event:
+      m_PersistentCalls:
+        m_Calls: []
+    args: []
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isSkipable: 0
+  - text: 'We might end up killing him even faster by intervening. '
+    speaker: Oze
+    speakerTag: 
+    pitchMod: 0
+    timeUntilNextLine: 0
+    typingSpeed: 0.05
+    newBlock: 0
+    narrativeEvent: {fileID: 0}
+    Event:
+      m_PersistentCalls:
+        m_Calls: []
+    args: []
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isSkipable: 0
+  - text: Not if you do your job properly. You're good at this.
+    speaker: Oja
+    speakerTag: 
+    pitchMod: 0
+    timeUntilNextLine: 0
+    typingSpeed: 0.05
+    newBlock: 0
+    narrativeEvent: {fileID: 0}
+    Event:
+      m_PersistentCalls:
+        m_Calls: []
+    args: []
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isSkipable: 0
+  - text: It's always me. You're lazy, aren't you? I'm only more skilled than you
+      because you leave all the work to me, me and me!
+    speaker: Oze
+    speakerTag: 
+    pitchMod: 0
+    timeUntilNextLine: 0
+    typingSpeed: 0.05
+    newBlock: 0
+    narrativeEvent: {fileID: 0}
+    Event:
+      m_PersistentCalls:
+        m_Calls: []
+    args: []
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isSkipable: 0
+  - text: "I\u2019ll go. I\u2019ll do it."
+    speaker: Oze
+    speakerTag: 
+    pitchMod: 0
+    timeUntilNextLine: 0
+    typingSpeed: 0.05
+    newBlock: 0
+    narrativeEvent: {fileID: 0}
+    Event:
+      m_PersistentCalls:
+        m_Calls: []
+    args: []
+    color: {r: 0, g: 0, b: 0, a: 0}
+    isSkipable: 0
